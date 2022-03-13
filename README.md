@@ -16,4 +16,6 @@
   #### Passportjs / Passport-jwt -> Jwt Authentication
   #### Class validator -> For Model Validation
   #### Pactum -> For Tests
+  #### Docker -> For Container
+  #### PostgreSQL -> For Database
   
