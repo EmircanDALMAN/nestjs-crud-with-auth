@@ -1,15 +1,15 @@
 ## Nestjs Crud Api With Auth
 
-# yarn install
+## yarn install
+#
+### To Run The Api
+  ### yarn db:dev:up
 
-# To Run The Api
-  ## yarn db:dev:up
+## To Run The Tests
+  ### db:test:up
+  ### yarn test:e2e
 
-# To Run The Tests
-  ## db:test:up
-  ## yarn test:e2e
-
-# Used technologies
+## Used technologies
   ### Nestjs
   ### Prismajs -> For Crud and Database Operations
   ### Argon2 -> To Encrypt Passwords
