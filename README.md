@@ -15,3 +15,5 @@
   ### Argon2 -> To Encrypt Passwords
   ### Passportjs / Passport-jwt -> Jwt Authentication
   ### Class validator -> For Model Validation
+  ### Pactum -> For Tests
+  
